@@ -1,3 +1,5 @@
+This was a study project, so the following `README.md`file is composed just with personal annotations on what I was doing while learning.
+
 # Começando o Primeiro Projeto Node
 
 ## Configurações para começar o projeto
